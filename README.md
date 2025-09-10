@@ -18,10 +18,14 @@
 
 ### 🚀 About Me
 - 🔥 2nd-year CSE undergrad, passionate about scalable solutions, intelligent systems, and continuous learning in software development.
-- 🌱 MERN & Real-time Webapps → Logic with DSA → Intelligence with AI/ML → Growth through Progress  
-- 👯 Open to collaborate on **web apps, hackathons, and open-source projects**  
-- 📫 Reach me at: [LinkedIn](www.linkedin.com/in/mohammed-zeeshan-7b0227320)  
-- ⚡ Fun fact: 😅**  
+  
+- 🌱 MERN & Real-time Webapps → Logic with DSA → Intelligence with AI/ML → Growth through Progress
+  
+- 👯 Open to collaborate on **web apps, hackathons, and open-source projects**
+  
+- 📫 Reach me at: [LinkedIn](www.linkedin.com/in/mohammed-zeeshan-7b0227320)
+  
+- ⚡ Fun fact:Fueled by caffeine, chaos, and late-night hacks 😅**  
 
 ⭐️ *“Just a geek who builds, breaks, and figures things out.”*  
 
@@ -58,7 +62,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshan-X11&layout=compact&theme=default" alt="Top Languages" width="450"/>
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeeshan-X11&theme=github-compact&hide_border=true" width="95%"/>
+</p>
+
 ---
+
+
 
 ### 🌟 Featured Projects
 - [**MediConnect**](https://github.com/Zeeshan-X11/MediConnect) – Minimal hospital website focusing on accessibility  
