@@ -48,26 +48,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zeeshan-X11&show_icons=true&theme=default&count_private=true&hide=prs,issues" alt="Zeeshan's GitHub Stats" width="450"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeeshan-X11&theme=default&hide_border=true" alt="GitHub Streak" width="450"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshan-X11&layout=compact&theme=default" alt="Top Languages" width="450"/>
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeeshan-X11&theme=github-compact&hide_border=true" width="95%"/>
-</p>
-
----
 
 
 
