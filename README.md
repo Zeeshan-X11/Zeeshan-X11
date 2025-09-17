@@ -1,9 +1,10 @@
 ## Hi there 👋 I'm Mohammed Zeeshan  
 
-<!-- White Background, Thin Black Text -->
+<!-- Dark Gradient Background, White Text -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=280&section=header&text=Mohammed%20Zeeshan&fontSize=70&fontColor=000000&animation=fadeIn&fontFamily=JetBrains%20Mono&fontWeight=100" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:000000&height=280&section=header&text=Mohammed%20Zeeshan&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontFamily=Poppins&fontWeight=600" />
 </p>
+
 
 <img align="right" src="https://github.com/user-attachments/assets/8c1eb53e-98a4-487f-bf53-b17441e64216" width="400" />
 
@@ -12,7 +13,7 @@
 
 
 
-🎓 2nd-year Engineering Student | 💻 MERN Stack Developer | 🚀 6x Hackathon Participant  
+🎓 2nd-year Engineering Student | 💻 MERN Stack Developer | 🚀 6x Hackathons 
 
 ---
 
@@ -47,7 +48,13 @@
 | ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) | ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=visual-studio-code&logoColor=white) |
 
 ---
+<h2 align="center"> 📊 GitHub Stats </h2>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeeshan-X11&theme=react-dark&hide_border=true" width="95%"/>
+</p>
+
+---
 
 
 
